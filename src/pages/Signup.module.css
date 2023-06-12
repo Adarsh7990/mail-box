@@ -1,0 +1,72 @@
+.main-form {
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    box-sizing: border-box;
+  }
+  
+  .form {
+    /* border: 2px solid brown; */
+    padding: 40px;
+    border-radius: 100px;
+    /* box-shadow: 0 0 50px brown; */
+  }
+
+  .form .head {
+    text-align: center;
+    /* margin-top: 10px; */
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-weight: bold;
+    color: hotpink;
+
+  }
+  
+  .form .title {
+    text-align: center;
+    /* margin-top: 10px; */
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-weight: bold;
+    color: plum;
+  }
+
+  .form .img {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .form input {
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 0 10px 5px;
+    margin: 15px 0 15px 0;
+    width: 100%;
+    border-radius: 15px;
+    border-color: white;
+    color: purple;
+  }
+  
+  .button {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .button button {
+    width: 60%;
+    padding: 8px 0 8px 0;
+    border-radius: 25px;
+    font-size: 18px;
+    border-color: purple;
+    color: white;
+    background-color: purple;
+  }
+  
+  .hasAccount {
+    margin: auto;
+    margin-top: 50px;
+    font-size: 18px;
+    cursor: pointer;
+    border-bottom: 2px solid purple;
+    width: fit-content;
+  }
